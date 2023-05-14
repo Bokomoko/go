@@ -12,6 +12,9 @@ The main advantage is that you don't need to install/configure anything on your 
 
 Whenever you use VS Code for Go lang development you may add the extensions that make sense for Go. This is particularly useful if you code in multiple languages like JavaScript/React for front end. You keep VS Code light with the extensions pertaining to the language you're coding. Debuging tools, database clients, testing and debuging extensions that are specific to a project or language will be loaded only on those projects where it makes sense.
 
+The same applies for environment variables, credentials, version of libraries, and things like that.
+
 Another advantage is that any configuration change needed for using Go language on the dev container won't cause any issues in your local machine. And vice-versa, that is, nothing you would do on your computer will jeopardize the development of the go environment in your project.
 
-For more information on dev containers, please follow this link
+For more information on dev containers, [please follow this link] (https://learn.microsoft.com/pt-br/training/modules/use-docker-container-dev-env-vs-code/)
+
